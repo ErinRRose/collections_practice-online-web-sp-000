@@ -6,3 +6,4 @@ end
 
 def sort_array_desc(stuff)
   stuff.sort.reverse
+end
